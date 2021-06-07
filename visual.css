@@ -1,0 +1,21 @@
+body
+{
+	margin:0;
+	background-color: white;
+
+}
+#graph
+{
+}
+#back
+{
+	position: relative;
+	margin: 0 auto;
+	display: block;
+	margin-top: 30px;
+
+}
+#canvas
+{
+	margin: 50px;
+}
